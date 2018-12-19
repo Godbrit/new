@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hyykkk
 ssdas
+=======
+hyy
+>>>>>>> parent of 6e1c2f6... second
